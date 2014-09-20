@@ -1,7 +1,6 @@
-<% if @cur_url == "/recent" %>
+<% if @cur_url == "/newest" %>
   <div class="box" id="leader">
-    <em>The <a href="/newest">newest</a> stories with a random sampling of
-    recently submitted stories that have not yet reached the front page.</em>
+    <em>This page is also available as <%= link_to "RSS", "/newest.rss" %></em>
   </div>
 <% end %>
 
