@@ -1,3 +1,9 @@
 :domain: "lobste.rs"
 :protocol: "https"
 :name: "Lobsters"
+<<<<<<< Updated upstream
+=======
+:https: true
+:pushover:
+  :api_token: " azGDORePK8gMaC0QOYAMyEEuzJnyUi"
+>>>>>>> Stashed changes
